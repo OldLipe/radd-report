@@ -2,7 +2,7 @@
 
 [![renv project](https://img.shields.io/badge/renv%20project-OK-brightgreen.svg)](https://rstudio.github.io/renv/)
 
-The objective of this repository is to provide a reproducible example comparing implementations of the multi-sensor combination algorithm using a Bayesian approach. We reproduced an example provided by the authors in the city of Pailón, Bolívia.
+The aim of this repository is to provide a reproducible example comparing implementations of the multi-sensor combination algorithm using a Bayesian approach. We reproduced an example provided by the authors in the city of Pailón, Bolívia.
 
 ## Directory structure
 
